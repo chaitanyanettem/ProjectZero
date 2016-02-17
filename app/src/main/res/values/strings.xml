@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="hello_msg">My Nanodegree Apps</string>
+    <string name="fa_smile_o">&#xf118;</string>
+    <string name="button1">Popular Movies</string>
+    <string name="button2">Scores</string>
+    <string name="button3">Library</string>
+    <string name="button4">Build it Bigger</string>
+    <string name="button5">XYZ Reader</string>
+    <string name="button6">Capstone Project</string>
+
+</resources>
